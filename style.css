@@ -647,12 +647,12 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn{
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
 }
+
 
 .container {
     max-width: 1000px;
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -756,6 +756,16 @@ h4 {
     background-color: rgba(165, 147, 99, 0.7);
     padding: 40px 40px 40px 40px;
 }
+.black-background-small{
+    background-color: rgba(165, 147, 99, 0.7);
+    margin:10px 30%;
+    padding:10px;
+}
+.black-background-medium{
+    background-color: rgba(165, 147, 99, 0.7);
+    margin:10px 10%;
+    padding:20px;
+}
 
 .bold-link {
     font-weight: 900;
@@ -771,7 +781,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: rgb(151, 57, 12);
 }
 
 .tc-white {
@@ -779,7 +789,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background:rgb(151, 57, 12);
     color: #FFFFFF!important;
 }
 
@@ -824,6 +834,50 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp"); /*####### reduire la taille*/
 }
+.row-presentation{
+    display:flex;
+    justify-content: center;
+}
+.presentation{
+    font-size:2.2rem;
+    color:#575757;
+    max-width:640px;
+    margin:0 20px;
+}
+.voffset{
+ display:flex;
+ justify-content: center;
+}
+.temoin{
+    font-size:1.9rem;
+    font-weight: 500;
+    text-align: center;
+    color: #575757;
+    max-width:550px;
+    margin:0 20px;
+}
+
+.client{
+
+    font-size:1.5rem;
+    font-weight: 400;
+    color: #575757;
+    max-width:500px;
+    
+}
+.portfolio{
+    font-size:2.2rem;
+    font-weight: 400;
+    color: #575757;
+    max-width:500px;
+    margin:0 27%;
+}
+.footer{
+    margin-top:25px;
+}
+li a{
+    color:white;
+}
 
 @media (max-width: 1024px) {
     .bloc {
@@ -846,6 +900,7 @@ h4 {
     .nav-center.navbar .nav {
         max-width: 100%
     }
+    
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
