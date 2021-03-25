@@ -677,7 +677,7 @@ label,
 }
 
 p {
-    font-size: 15px;
+    font-size: 17px;
 }
 
 .tight-width-whitespace {
@@ -702,6 +702,9 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+}
+.social figcaption{
+    color:white;
 }
 
 h2 {
