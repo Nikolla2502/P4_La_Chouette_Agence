@@ -2,6 +2,17 @@
 <p>L'objectif est l'optimisation du site "La chouette agence" pour une optimisation SEO<br>
 
 <a href="https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip" target="_blank">Fichier contenant la maquette du site</a></p>
+
+
+<h3>Objectif du projet</h3>
+
+<ul>
+<li>Fournir un rapport d’analyse SEO du site, dans lequel on identifie clairement les 10 recommandations sélectionnées ;</li>
+<li>Fournir le code source complet du site amélioré ;</li>
+<li>Etablir un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).</li>
+</ul>
+
+
 <h3>L'accesibilité</h3>
 Mes ressources et outils
 <ul>
@@ -18,10 +29,3 @@ Mes ressources et outils
 </ul>
 
 
-<h3>Objectif du projet</h3>
-
-<ul>
-<li>Fournir un rapport d’analyse SEO du site, dans lequel on identifie clairement les 10 recommandations sélectionnées ;</li>
-<li>Fournir le code source complet du site amélioré ;</li>
-<li>Etablir un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).</li>
-</ul>
