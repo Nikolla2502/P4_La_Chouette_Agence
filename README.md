@@ -13,10 +13,10 @@
 </ul>
 
 
-<h3>L'accesibilité</h3>
-Mes ressources et outils
+<h3>Mes ressources et outils</h3>
+
 <ul>
-<li><a href="https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist" target="_blank">L'accesibilité selon MDN</a></li>
+<li><a href="https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist" target="_blank">L'accessibilité selon MDN</a></li>
 <li>Avoir des informations très précises sur ce que vos visiteurs recherchent sur Google pour vous trouver : <a href="https://search.google.com/search-console/welcome?hl=fr&utm_source=wmx&utm_medium=deprecation-pane&utm_content=home" target="_blank"><strong>Google Search Control</strong></a></li>
 <li>Mesurer la vitesse de chargement des pages : <a href="https://gtmetrix.com/" target="_blank"><strong>GT Metrix</strong></a></li>
 <li>Extension pour Chrome :
