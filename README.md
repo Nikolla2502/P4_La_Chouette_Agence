@@ -1,3 +1,4 @@
+<img src="img/la-chouette-agence.png" alt="La chouette agence" height="40">
 <h2>Projet 4 du parcours "Developpeur Web" pour Openclassroom</h2>
 <p>L'objectif est l'optimisation du site "La chouette agence" pour une optimisation SEO<br>
 
