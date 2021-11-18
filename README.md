@@ -1,18 +1,18 @@
 <h2>Projet 4 du parcours "Developpeur Web" pour Openclassroom</h2>
 <p>L'objectif est l'optimisation du site "La chouette agence" pour une optimisation SEO<br>
-Ce site permet aux utilisateurs de télécharger leurs sauces piquantes préférées et de liker ou disliker les sauces que d'autres partagent.<br>
+
 <a href="https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip" target="_blank">Fichier contenant la maquette du site</a></p>
 <h3>L'accesibilité</h3>
 Mes ressources et outils
 <ul>
 <li><a href="https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist" target="_blank">L'accesibilité selon MDN</a></li>
-<li><a href="https://search.google.com/search-console/welcome?hl=fr&utm_source=wmx&utm_medium=deprecation-pane&utm_content=home" target="_blank">Avoir des informations très précises sur ce que vos visiteurs recherchent sur Google pour vous trouver : <strong>Google Search Control</strong></a></li>
-<li><a href="https://gtmetrix.com/" target="_blank">Mesurer la vitesse de chargement des pages : <strong>GT Metrix</strong></a></li>
+<li>Avoir des informations très précises sur ce que vos visiteurs recherchent sur Google pour vous trouver : <a href="https://search.google.com/search-console/welcome?hl=fr&utm_source=wmx&utm_medium=deprecation-pane&utm_content=home" target="_blank"><strong>Google Search Control</strong></a></li>
+<li>Mesurer la vitesse de chargement des pages : <a href="https://gtmetrix.com/" target="_blank"><strong>GT Metrix</strong></a></li>
 <li>Extension pour Chrome :
 <ul>
-<li><a href="https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh" target="_blank"></a><strong>Wave Evaluation Tool</strong> : vérificateur d'accessibilité automatisé</li>
-<li><a href="https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd/related" target="_blank"><strong>aXe</strong> : vérificateur d'accessibilité automatisé</li>
-<li><a href="https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi/related" target="_blank"><strong>HeadingsMap</strong> permet de voir rapidement la structure des rubriques de la page.</li>
+<li><a href="https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh" target="_blank"><strong>Wave Evaluation Tool</strong></a> : vérificateur d'accessibilité automatisé</li>
+<li><a href="https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd/related" target="_blank"><strong>aXe</strong></a> : vérificateur d'accessibilité automatisé</li>
+<li><a href="https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi/related" target="_blank"><strong>HeadingsMap</strong></a> permet de voir rapidement la structure des rubriques de la page.</li>
 </ul>
 </li>
 </ul>
